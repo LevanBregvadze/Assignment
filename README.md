@@ -34,6 +34,7 @@ Migration:
  dotnet ef migrations add name
 ```
 
+Update Database:
 ```bash
  dotnet ef database update
 ```
